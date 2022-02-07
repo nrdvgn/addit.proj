@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/addit.proj/static/css/main.0720e3b7.css",
+    "main.js": "/addit.proj/static/js/main.29d707ff.js",
+    "index.html": "/addit.proj/index.html",
+    "static/media/burger.svg": "/addit.proj/static/media/burger.be02f45706005543a3bba90cabc1252a.svg",
+    "static/media/close.svg": "/addit.proj/static/media/close.30e6cfb9ce20492e298f8dda23a969ee.svg",
+    "static/media/default-feature.svg": "/addit.proj/static/media/default-feature.75b4aa0fdda170874df148608d16111f.svg",
+    "main.0720e3b7.css.map": "/addit.proj/static/css/main.0720e3b7.css.map",
+    "main.29d707ff.js.map": "/addit.proj/static/js/main.29d707ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0720e3b7.css",
+    "static/js/main.29d707ff.js"
+  ]
+}
